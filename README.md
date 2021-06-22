@@ -8,14 +8,18 @@ Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on exper
 
 <h3 align="center">Tools and Technologies:</h3>
 <p align="center">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/docker_button_icon_151885.png" alt="docker" width="120"/>
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/kubernetes_button_icon_151893.png" alt="kubernetes" width="120"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/openshift-283020.png" alt="openshift" width="60"/>
-  <img src="https://www.nexthink.com/wp-content/uploads/2018/04/ansible-icon.png" alt="ansible" width="60"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="75"/>
-  <img src="https://avatars1.githubusercontent.com/u/65916846?v=4" alt="github-actions" width="65"/>
-  <img src="https://burnhamforensics.files.wordpress.com/2019/03/elk-2.png" alt="elk" width="145"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/docker_button_icon_151885.png" alt="docker" width="165"/>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/kubernetes_button_icon_151893.png" alt="kubernetes" width="210"/>
+  <img src="https://raw.githubusercontent.com/Ahmedsamymahrous/images/main/openshift.png?token=APPOXJL7JY5Z4XTVCW3OZX3A2EFKU" alt="openshift" width="210"/>
+  <img src="https://raw.githubusercontent.com/Ahmedsamymahrous/images/main/ansible.png?token=APPOXJLSZFTZD4FYEYH5XVLA2EFBG" alt="ansible" width="165"/> 
+  <img src="https://raw.githubusercontent.com/Ahmedsamymahrous/images/main/git.png?token=APPOXJKB6NVOZNIGRUYV2K3A2EFE6" alt="git" width="165"/>
+  <img src="https://raw.githubusercontent.com/Ahmedsamymahrous/images/main/jenkins.png?token=APPOXJOJTZYTNWLXIKIURWTA2EFV2" alt="jenkins" width="170"/>
+  <img src="https://raw.githubusercontent.com/Ahmedsamymahrous/images/main/actions.png?token=APPOXJL6XP66OWQ4MNUZOKDA2EE3K" alt="github-actions" width="205"/>
+  <img src="https://raw.githubusercontent.com/Ahmedsamymahrous/images/main/elasticsearch.png?token=APPOXJJEZ25WY5EWRUYWV3LA2EF2Q" alt="elk" width="205"/> 
+  <img src="https://raw.githubusercontent.com/Ahmedsamymahrous/images/main/logstash.png?token=APPOXJL24FJ7LL2RH65TO23A2EF3Y" alt="elk" width="190"/> 
+  <img src="https://raw.githubusercontent.com/Ahmedsamymahrous/images/main/kibana.png?token=APPOXJIKCKKQGH2SGCE5VUDA2EF6E" alt="elk" width="190"/> 
+
+
 </p>
 
  
