@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Samy</h1>
 <h2 align="center">A passionate DevOps Engineer</h2>
 <p align="center">
-Recently graduated from ITI (Cloud Platform Development Track).
+Recently graduated from ITI - Cloud Platform Development Track.
 Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on experience in managing DevOps tools, open-source technologies, CI/CD pipelines and Cloud services.
 </p>
 
