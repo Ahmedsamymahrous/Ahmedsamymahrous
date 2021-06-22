@@ -8,16 +8,16 @@ Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on exper
 
 <h3 align="center">Tools and Technologies:</h3>
 <p align="center">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/docker_button_icon_151885.png" alt="docker" width="165"/>
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/kubernetes_button_icon_151893.png" alt="kubernetes" width="210"/>
-  <img src="https://raw.githubusercontent.com/Ahmedsamymahrous/images/main/openshift.png?token=APPOXJL7JY5Z4XTVCW3OZX3A2EFKU" alt="openshift" width="210"/>
-  <img src="https://raw.githubusercontent.com/Ahmedsamymahrous/images/main/ansible.png?token=APPOXJLSZFTZD4FYEYH5XVLA2EFBG" alt="ansible" width="165"/> 
-  <img src="https://raw.githubusercontent.com/Ahmedsamymahrous/images/main/git.png?token=APPOXJKB6NVOZNIGRUYV2K3A2EFE6" alt="git" width="165"/>
-  <img src="https://raw.githubusercontent.com/Ahmedsamymahrous/images/main/jenkins.png?token=APPOXJOJTZYTNWLXIKIURWTA2EFV2" alt="jenkins" width="170"/>
-  <img src="https://raw.githubusercontent.com/Ahmedsamymahrous/images/main/actions.png?token=APPOXJL6XP66OWQ4MNUZOKDA2EE3K" alt="github-actions" width="205"/>
-  <img src="https://raw.githubusercontent.com/Ahmedsamymahrous/images/main/elasticsearch.png?token=APPOXJJEZ25WY5EWRUYWV3LA2EF2Q" alt="elk" width="205"/> 
-  <img src="https://raw.githubusercontent.com/Ahmedsamymahrous/images/main/logstash.png?token=APPOXJL24FJ7LL2RH65TO23A2EF3Y" alt="elk" width="190"/> 
-  <img src="https://raw.githubusercontent.com/Ahmedsamymahrous/images/main/kibana.png?token=APPOXJIKCKKQGH2SGCE5VUDA2EF6E" alt="elk" width="190"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/docker_button_icon_151885.png" alt="docker" width="135"/>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/kubernetes_button_icon_151893.png" alt="kubernetes" width="175"/>
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/openshift_icon_189422.png" alt="openshift" width="175"/>
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/ansible_icon_189416.png" alt="ansible" width="140"/> 
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/git_icon_189418.png" alt="git" width="140"/><br>
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/jenkins_icon_189419.png" alt="jenkins" width="150"/>
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/actions_icon_189392.png" alt="github-actions" width="175"/>
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/elasticsearch_icon_189417.png" alt="elk" width="175"/> 
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/logstash_icon_189421.png" alt="elk" width="165"/> 
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/kibana_icon_189420.png" alt="elk" width="165"/> 
 
 
 </p>
@@ -28,10 +28,10 @@ Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on exper
 <h3 align="center">Programming Languages:</h3>
 <p align="center">  
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bash_button_icon_151886.png" alt="bash" width="120"/>
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" alt="python" width="120"/>
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" alt="java" width="120"/>
-  <img src="https://camo.githubusercontent.com/9b01eeee066e0cd7d6896acdb42e80410b676ad31e235a80ef25302db4b662c6/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323130372f504e472f3531322f66696c655f747970655f727562795f69636f6e5f3133303138362e706e67" alt="ruby" width="60"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/scala-226059.png" alt="scala" width="70"/>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" alt="python" width="135"/>
+   <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/untitled_icon_189424.png" alt="scala" width="135"/>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" alt="java" width="107"/>
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/ruby_icon_189423.png" alt="ruby" width="130"/>
 
 </p>
 
