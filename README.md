@@ -8,38 +8,35 @@ Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on exper
 
 <h3 align="center">Tools and Technologies:</h3>
 <p align="center">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/docker_button_icon_151885.png" alt="docker" width="135"/>
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/kubernetes_button_icon_151893.png" alt="kubernetes" width="175"/>
-  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/openshift_icon_189422.png" alt="openshift" width="175"/>
-  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/ansible_icon_189416.png" alt="ansible" width="140"/> 
-  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/git_icon_189418.png" alt="git" width="140"/><br>
-  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/jenkins_icon_189419.png" alt="jenkins" width="150"/>
-  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/actions_icon_189392.png" alt="github-actions" width="175"/>
-  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/elasticsearch_icon_189417.png" alt="elk" width="175"/> 
-  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/logstash_icon_189421.png" alt="elk" width="165"/> 
-  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/kibana_icon_189420.png" alt="elk" width="165"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/docker_button_icon_151885.png" alt="docker" width="115"/>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/kubernetes_button_icon_151893.png" alt="kubernetes" width="155"/>
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/openshift_icon_189422.png" alt="openshift" width="150"/>
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/ansible_icon_189416.png" alt="ansible" width="120"/> 
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/git_icon_189418.png" alt="git" width="120"/><br>
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/jenkins_icon_189419.png" alt="jenkins" width="130"/>
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/actions_icon_189392.png" alt="github-actions" width="155"/>
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/elasticsearch_icon_189417.png" alt="elk" width="150"/> 
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/logstash_icon_189421.png" alt="elk" width="140"/> 
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/kibana_icon_189420.png" alt="elk" width="140"/> 
 
 
 </p>
 
  
-
-<br>
 <h3 align="center">Programming Languages:</h3>
 <p align="center">  
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bash_button_icon_151886.png" alt="bash" width="120"/>
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" alt="python" width="135"/>
-   <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/untitled_icon_189424.png" alt="scala" width="135"/>
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" alt="java" width="107"/>
-  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/ruby_icon_189423.png" alt="ruby" width="130"/>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bash_button_icon_151886.png" alt="bash" width="100"/>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" alt="python" width="115"/>
+   <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/untitled_icon_189424.png" alt="scala" width="115"/>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" alt="java" width="87"/>
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/ruby_icon_189423.png" alt="ruby" width="110"/>
 
 </p>
 
-<br>
 <h3 align="center">Cloud Providers:</h3>
 <p align="center">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/aws_button_icon_151904.png" alt="aws" width="120"/> 
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gcp_button_icon_151896.png" alt="gcp" width="120"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/aws_button_icon_151904.png" alt="aws" width="100"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gcp_button_icon_151896.png" alt="gcp" width="100"/> 
 </p>
 
 
