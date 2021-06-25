@@ -54,7 +54,7 @@ Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on exper
 
 
 <!-- <h1 align="left">Hi 👋, I'm Ahmed Samy</h1> -->
-<p align="center"><img src="https://ttpsc.com/wp4/wp-content/uploads/2020/08/DeOps-Atlassian-tools-tools-for-devops-devops-software-jira-Transition-Technologies-PSC-Atlassian-Platinum-Solution-Partner.png" width=200/></p>
+<!-- <p align="center"><img src="https://ttpsc.com/wp4/wp-content/uploads/2020/08/DeOps-Atlassian-tools-tools-for-devops-devops-software-jira-Transition-Technologies-PSC-Atlassian-Platinum-Solution-Partner.png" width=200/></p> -->
 <h1 align="center">A passionate DevOps Engineer</h1>
 <p align="center">
   Recently graduated from ITI - Cloud Platform Development Track.
