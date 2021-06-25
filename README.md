@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Samy</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ahmed Samy</h1>
 <h2 align="center">A passionate DevOps Engineer</h2>
 <p align="center">
 Recently graduated from ITI - Cloud Platform Development Track.
@@ -15,7 +15,7 @@ Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on exper
   <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/git_icon_189418.png" alt="git" width="120"/><br>
   <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/jenkins_icon_189419.png" alt="jenkins" width="130"/>
 <!--   <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/actions_icon_189392.png" alt="github-actions" width="155"/> -->
-  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/elasticsearch_icon_189417.png" alt="elk" width="150"/> 
+<!--   <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/elasticsearch_icon_189417.png" alt="elk" width="150"/> 
   <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/logstash_icon_189421.png" alt="elk" width="140"/> 
   <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/kibana_icon_189420.png" alt="elk" width="140"/> 
 
@@ -38,7 +38,7 @@ Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on exper
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/aws_button_icon_151904.png" alt="aws" width="100"/> 
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gcp_button_icon_151896.png" alt="gcp" width="100"/> 
 </p>
-
+ -->
 
 
 
@@ -51,3 +51,16 @@ Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on exper
   <img src="https://iconape.com/wp-content/files/ol/92891/png/red-hat-1.png" alt="rdhat" width="70"/> 
   <img src="https://img.pngio.com/logo-de-microsoft-microsoft-d-azur-word-png-et-vecteur-pour-telecharger-png-gratuit-microsoft-640_640.png" alt="win" width="85"/>
 </p> -->
+
+
+<h1 align="left">Hi 👋, I'm Ahmed Samy</h1>
+<h3 align="left">A passionate DevOps Engineer</h3>
+
+- 🔭 I’m currently working on **DevOps project**
+
+- 🌱 I’m currently learning **ELK stack**
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedsamymahrous&hide=stars,issues&show_icons=true&theme=gotham&locale=en" alt="ahmedsamymahrous" /></p>
+
+
