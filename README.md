@@ -53,8 +53,13 @@ Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on exper
 </p> -->
 
 
-<h1 align="left">Hi 👋, I'm Ahmed Samy</h1>
-<h3 align="left">A passionate DevOps Engineer</h3>
+<!-- <h1 align="left">Hi 👋, I'm Ahmed Samy</h1> -->
+
+<h1 align="left">A passionate DevOps Engineer</h1>
+<p align="left">
+Recently graduated from ITI - Cloud Platform Development Track.
+Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on experience in managing DevOps tools, open-source technologies, CI/CD pipelines and Cloud services.
+</p>
 
 - 🔭 I’m currently working on **DevOps project**
 
