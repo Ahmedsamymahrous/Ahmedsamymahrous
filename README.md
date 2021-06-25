@@ -60,24 +60,24 @@ Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on exper
   Recently graduated from ITI - Cloud Platform Development Track.
   Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on experience in managing DevOps tools, open-source technologies, CI/CD pipelines and Cloud services.
 </p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedsamymahrous&hide=stars,issues&show_icons=true&theme=gotham&locale=en" alt="ahmedsamymahrous" /></p>
+
 <p align="center">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/docker_button_icon_151885.png" alt="docker" width="115"/>
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/kubernetes_button_icon_151893.png" alt="kubernetes" width="145"/>
   <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/ansible_icon_189416.png" alt="ansible" width="110"/> 
-  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/jenkins_icon_189419.png" alt="jenkins" width="115"/> 
-  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/git_icon_189418.png" alt="git" width="105"/><br>
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/jenkins_icon_189419.png" alt="jenkins" width="105"/> 
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/git_icon_189418.png" alt="git" width="100"/> <br>
 
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bash_button_icon_151886.png" alt="bash" width="100"/>
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" alt="python" width="110"/>
-  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/untitled_icon_189424.png" alt="scala" width="110"/>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bash_button_icon_151886.png" alt="bash" width="85"/>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" alt="python" width="100"/>
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/untitled_icon_189424.png" alt="scala" width="100"/>
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" alt="java" width="85"/>
-  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/ruby_icon_189423.png" alt="ruby" width="105"/>
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/ruby_icon_189423.png" alt="ruby" width="95"/>
 
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/aws_button_icon_151904.png" alt="aws" width="90"/> 
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gcp_button_icon_151896.png" alt="gcp" width="85"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/aws_button_icon_151904.png" alt="aws" width="80"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gcp_button_icon_151896.png" alt="gcp" width="80"/> 
 </p>
-
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedsamymahrous&hide=stars,issues&show_icons=true&theme=gotham&locale=en" alt="ahmedsamymahrous" /></p>
 <!-- 
 
 - 🔭 I’m currently working on **DevOps project**
