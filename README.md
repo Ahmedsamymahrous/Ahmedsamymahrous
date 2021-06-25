@@ -57,15 +57,17 @@ Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on exper
 
 <h1 align="left">A passionate DevOps Engineer</h1>
 <p align="left">
-Recently graduated from ITI - Cloud Platform Development Track.
-Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on experience in managing DevOps tools, open-source technologies, CI/CD pipelines and Cloud services.
+  Recently graduated from ITI - Cloud Platform Development Track.
+  Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on experience in managing DevOps tools, open-source technologies, CI/CD pipelines and Cloud services.
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedsamymahrous&hide=stars,issues&show_icons=true&theme=gotham&locale=en" alt="ahmedsamymahrous" /></p>
+
 
 - 🔭 I’m currently working on **DevOps project**
 
 - 🌱 I’m currently learning **ELK stack**
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedsamymahrous&hide=stars,issues&show_icons=true&theme=gotham&locale=en" alt="ahmedsamymahrous" /></p>
+
 
 
