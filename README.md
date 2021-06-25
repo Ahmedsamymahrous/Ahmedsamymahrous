@@ -60,6 +60,7 @@ Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on exper
   Recently graduated from ITI - Cloud Platform Development Track.
   Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on experience in managing DevOps tools, open-source technologies, CI/CD pipelines and Cloud services.
 </p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedsamymahrous&hide=stars,issues&show_icons=true&theme=gotham&locale=en" alt="ahmedsamymahrous" /></p>
 <p align="center">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/docker_button_icon_151885.png" alt="docker" width="115"/>
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/kubernetes_button_icon_151893.png" alt="kubernetes" width="145"/>
@@ -76,7 +77,7 @@ Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on exper
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/aws_button_icon_151904.png" alt="aws" width="90"/> 
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gcp_button_icon_151896.png" alt="gcp" width="85"/> 
 </p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedsamymahrous&hide=stars,issues&show_icons=true&theme=gotham&locale=en" alt="ahmedsamymahrous" /></p>
+
 <!-- 
 
 - 🔭 I’m currently working on **DevOps project**
