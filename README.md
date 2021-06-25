@@ -58,7 +58,7 @@ Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on exper
 <h1 align="center"> :rocket: A passionate DevOps engineer</h1>
 <p align="center">
   Recently graduated from ITI - Cloud Platform Development Track.
-  Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on experience in managing DevOps tools, open-source technologies, CI/CD pipelines and Cloud services.
+  Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on experience in managing DevOps tools, open-source technologies, CI/CD pipelines, ELK stack and Cloud services.
 </p>
 <!-- 
 <p align="center">
