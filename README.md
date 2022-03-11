@@ -59,7 +59,7 @@ Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on exper
 
 <h1 align="center"> :rocket: A passionate DevOps engineer</h1>
 <p align="center">
-  DevOps engineer who's responsible for automate servers configuration management using <b>Ansible</b>, building infrastructure on both public/private cloud (AWS - GCP -VMware) using <b>Terraform</b>, build CI/CD pipelines with different tools (Jenkins, Gitlab CI and GitHub Actions), and manage <b>Kubernetes</b> clusters using GitOps way using tools like <b>Flux</b>. 
+  DevOps engineer who's responsible for automate configuration management using <b>Ansible</b>, building infrastructure on both public/private cloud (AWS - GCP -VMware) using <b>Terraform</b>, build CI/CD pipelines with different tools (Jenkins, Gitlab CI and GitHub Actions), and manage <b>Kubernetes</b> clusters using GitOps way using tools like <b>Flux</b>. 
 </p>
 
 <!-- <p align="center">
