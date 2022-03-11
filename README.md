@@ -59,10 +59,13 @@ Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on exper
 
 <h1 align="center"> :rocket: A passionate DevOps engineer</h1>
 <p align="center">
-  Graduated from ITI - Cloud Platform Development Track.
-  Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on experience in managing DevOps tools, open-source technologies, CI/CD pipelines, ELK stack and Cloud services.
+  DevOps engineer who's responible for automate servers configuration using <b>Ansible</b>, building infrastructure on both public (AWS - GCP) & private (VMware) cloud using <b>Terraform</b>, build CI/CD pipelines with different tools (Jenkins, Gitlab CI and GitHub Actions), and manage <b>Kubernetes</b> clusters using GitOps way using tools like <b>Flux</b>. 
 </p>
 
+<!-- <p align="center">
+  Graduated from ITI - Cloud Platform Development Track.
+  Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on experience in managing DevOps tools, open-source technologies, CI/CD pipelines, ELK stack and Cloud services.
+</p> -->
 <!-- 
 <p align="center">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/docker_button_icon_151885.png" alt="docker" width="115"/>
