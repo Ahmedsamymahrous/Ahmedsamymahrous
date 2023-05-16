@@ -83,7 +83,7 @@ Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on exper
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/aws_button_icon_151904.png" alt="aws" width="80"/> 
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gcp_button_icon_151896.png" alt="gcp" width="80"/> 
 </p> -->
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedsamymahrous&hide=stars,issues&show_icons=true&theme=gotham&locale=en" alt="ahmedsamymahrous" /></p>
+
 <!-- 
 
 - 🔭 I’m currently working on **DevOps project**
