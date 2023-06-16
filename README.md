@@ -57,7 +57,7 @@ Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on exper
 <!-- <h1 align="left">Hi 👋, I'm Ahmed Samy</h1> -->
 <!-- <p align="center"><img src="https://ttpsc.com/wp4/wp-content/uploads/2020/08/DeOps-Atlassian-tools-tools-for-devops-devops-software-jira-Transition-Technologies-PSC-Atlassian-Platinum-Solution-Partner.png" width=200/></p> -->
 
-<h1 align="center"> :rocket: A passionate DevOps engineer</h1>
+<h1 align="center"> :rocket: DevOps engineer</h1>
 <p align="center">
   DevOps engineer who's responsible for automating configuration management using Ansible, Building infrastructure on both public/private cloud (AWS, GCP and VMware) using Terraform, Building CI/CD pipelines with different tools (Jenkins, Gitlab CI and GitHub Actions), Using Bash and Python scripts to automate daily boring tasks, And build/manage Kubernetes clusters using GitOps way using tools like Flux. 
 </p>
