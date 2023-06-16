@@ -59,7 +59,10 @@ Besides, I’m an AWS Certified Cloud Practitioner with a year of hands-on exper
 
 <h1 align="center"> :rocket: DevOps engineer</h1>
 <p align="center">
-  DevOps engineer who's responsible for automating configuration management using Ansible, Building infrastructure on both public/private cloud (AWS, GCP and VMware) using Terraform, Building CI/CD pipelines with different tools (Jenkins, Gitlab CI and GitHub Actions), Using Bash and Python scripts to automate daily boring tasks, And build/manage Kubernetes clusters using GitOps way using tools like Flux. 
+  Experienced DevOps Engineer with a strong background in building and managing scalable, highly available systems. 
+Proficient in a variety of tools and technologies, including cloud platforms, automation tools, and containerization. 
+Passionate about leveraging technology to drive business growth and improve operational efficiencies. 
+Skilled in collaborating with cross-functional teams to deliver innovative solutions in a fast-paced environment.
 </p>
 
 <!-- <p align="center">
